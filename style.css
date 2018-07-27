@@ -64,6 +64,8 @@ nav {
 #about_description {
   padding-top: 40px;
   font-size: 30px;
+  display: flex;
+  justify-content: center;
 }
 
 .about_lifestyleIcons,
